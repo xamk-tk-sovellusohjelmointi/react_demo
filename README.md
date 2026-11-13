@@ -1,6 +1,6 @@
 # React-sovelluksen rakentaminen tekoälyn avulla ja julkaisu GitHub Pagesissa
 
-Tässä esimerkissä käydään läpi yksi tapa käyttää tekoälytyökaluja ohjelmoinnin avustajana. Samassa projektissa käydään myös staattisen React-frontend -sovelluksen julkaisu GitHub Pages -palvelussa. Julkaistua sovellusta voi testata osoitteessa: 
+Tässä esimerkissä käydään läpi yksi tapa käyttää tekoälytyökaluja ohjelmoinnin avustajana. Samassa projektissa käydään myös staattisen React-frontend -sovelluksen julkaisu GitHub Pages -palvelussa. Julkaistua sovellusta voi testata osoitteessa: https://xamk-tk-sovellusohjelmointi.github.io/react_demo/#/tasks
 
 ## Sisällysluettelo
 
