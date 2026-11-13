@@ -1,3 +1,3 @@
 # GitHub Pages -palvelussa julkaistu React Demo
 
-Tämä on päähaarassa (main) jaetun React demosovelluksen julkaisuversio. Voit katsella julkaistua sovellusta osoitteessa:
+Tämä on päähaarassa (main) jaetun React demosovelluksen julkaisuversio. Voit katsella julkaistua sovellusta osoitteessa: https://xamk-tk-sovellusohjelmointi.github.io/react_demo/
